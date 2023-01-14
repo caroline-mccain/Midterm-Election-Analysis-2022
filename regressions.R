@@ -1,5 +1,5 @@
 # set working directory
-working_directory = "/Users/carolinemccain/Library/CloudStorage/OneDrive-William&Mary/Desktop/SeniorYear/Fall/GOVT401"
+working_directory = ""
 setwd(working_directory)
 
 # install and load libraries
